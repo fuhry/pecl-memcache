@@ -1,0 +1,20 @@
+This package was debianized by Dan Fuhry <dfuhry@datto.com> using dh-make-pecl
+on Tue, 06 Sep 2016 16:54:58 -0400.
+
+It was downloaded from http://pecl.php.net/package/memcache
+
+Upstream Author(s):
+
+    Antony Dovgal, Mikael Johansson, Pierre-Alain Joye, Herman J. Radtke III
+
+Copyright:
+
+    Copyright (C) 2013 Antony Dovgal, Mikael Johansson, Pierre-Alain Joye, Herman J. Radtke III
+
+License:
+
+    Array
+
+The Debian packaging is copyright 2009, Dan Fuhry <dfuhry@datto.com> and
+is licensed under the GPL, see `/usr/share/common-licenses/GPL'.
+

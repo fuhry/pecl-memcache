@@ -1,0 +1,6 @@
+php-memcache (3.0.9-1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Dan Fuhry <dfuhry@datto.com>  Tue, 06 Sep 2016 16:54:58 -0400
+
